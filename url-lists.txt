@@ -2,9 +2,83 @@
 # License: GPLv3
 # Contact: destek [at] horus.com.tr
 # Author: Linux Hacisi, KGT
-# Date: August 03 2018
+# Date: August 04 2018
 # Project home page: https://github.com/HorusTeknoloji/TR-PhishingList
 
+0.0.0.0 yapi-kredi-interaktif.com
+0.0.0.0 garantiadebirimi.com
+0.0.0.0 xn--moblubesi-xpb12c.com
+0.0.0.0 xn--etereum-yt3c.com
+0.0.0.0 trenofficial.com
+0.0.0.0 akhantec.com
+0.0.0.0 photo-sharing.winsoftmagic.com
+0.0.0.0 gocadets.ca
+0.0.0.0 hanseatic-informartionen.net
+0.0.0.0 autoestofos.eu
+0.0.0.0 token.ad
+0.0.0.0 cointraffic.io
+0.0.0.0 consorziovinonobile.it
+0.0.0.0 cbfmrembang.com
+0.0.0.0 inversiontableauthority.com
+0.0.0.0 mail.contracostaoncology.com
+0.0.0.0 mail.eastwestcloud.com
+0.0.0.0 flyhoneywigs.com
+0.0.0.0 quetzalcoatlmexico.org
+0.0.0.0 ledmoney.win
+0.0.0.0 recovery7-unipaqes.gq
+0.0.0.0 bestchange.com
+0.0.0.0 mattresssupermarket.com
+0.0.0.0 jasminmobile.com
+0.0.0.0 wemove.in
+0.0.0.0 sealed.in
+0.0.0.0 solarproducts.co.in
+0.0.0.0 wetalk.in
+0.0.0.0 linking.services
+0.0.0.0 the1.in
+0.0.0.0 refeed.in
+0.0.0.0 feelfree.in
+0.0.0.0 laptopforsale.in
+0.0.0.0 www.allvideos.in
+0.0.0.0 www.goldendeals.in
+0.0.0.0 www.onlineyoga.in
+0.0.0.0 healthcard.co.in
+0.0.0.0 toplist.co.in
+0.0.0.0 www.inspire.co.in
+0.0.0.0 www.india24x7.in
+0.0.0.0 bestwife.in
+0.0.0.0 easytoget.in
+0.0.0.0 family.net.in
+0.0.0.0 girls.net.in
+0.0.0.0 greattime.in
+0.0.0.0 homelab.in
+0.0.0.0 honeymoonspecial.in
+0.0.0.0 inbangalore.in
+0.0.0.0 indoorreception.in
+0.0.0.0 laptopforsaile.in
+0.0.0.0 laptopforsale.in
+0.0.0.0 notebookpc.in
+0.0.0.0 sheikh.co.in
+0.0.0.0 eshoppingmall.in
+0.0.0.0 fashionshoes.in
+0.0.0.0 humanbank.in
+0.0.0.0 moreinfo.in
+0.0.0.0 notepad.co.in
+0.0.0.0 politicalirish.s2.bizhat.com
+0.0.0.0 www.hiphopshome.com
+0.0.0.0 homemaker.co.in
+0.0.0.0 makefreewebsite.in
+0.0.0.0 aunties.in
+0.0.0.0 www.nothing.co.in
+0.0.0.0 taxbook.in
+0.0.0.0 freebanner.in
+0.0.0.0 katrina.co.in
+0.0.0.0 observed.in
+0.0.0.0 micr.co.in
+0.0.0.0 industrialinsurance.in
+0.0.0.0 musicbook.in
+0.0.0.0 mail.chatsite.in
+0.0.0.0 ovural.com
+0.0.0.0 enhgo.com
 0.0.0.0 popularattractions.com
 0.0.0.0 holycryptocrap.com
 0.0.0.0 5buckplugin.com

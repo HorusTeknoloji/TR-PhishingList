@@ -1,10 +1,27 @@
-# Blocklists of Suspected Malicious DOMAINS Targeted To Turkey
-# License: GPLv3
-# Contact: destek [at] horus.com.tr
-# Author: Linux Hacisi, KGT
-# Date: August 14 2018
-# Project home page: https://github.com/HorusTeknoloji/TR-PhishingList
-
+b-internet-bankaciligi-yapikredi.com
+bireysel-bankacilik-yapikredi.com
+bireysel-giris-yapikredi.com
+yapikredi-cepsube.com
+yapikredi-internet.com
+yapikredisigorta.com
+isbanksizinle.com
+xaisbank.com
+yapikrediworldinternetsube.com
+bireyselbayramhediyesi.club
+bireysell-ziraatbank-subesi.com
+ziraat-tr-bireysel.com
+ziraat-tr-web-girisi.com
+einteraktifcek-postane-ptt.com
+hgsbakiyeptt.com
+interaktifcek-ptt-sube.com
+interaktif-pttsubesi-online.com
+ptt121.com
+pttaktifsube.com
+pttaltin.com
+pttgold.com
+pttsube-interaktif.com
+enpara-mobil.com
+enparasizinle.com
 88.249.182.27
 88.249.199.217
 enpara--bireyselube.com

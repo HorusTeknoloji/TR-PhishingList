@@ -1,3 +1,3 @@
-# Blocklists of Suspected Malicious DOMAINS Targeted To Turkey
+# Türkiye'ye Yönelik Zararlı Bağlntı Engelleme Listesi
 
-Soon
+Yakında

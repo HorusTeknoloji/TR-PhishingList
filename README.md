@@ -12,6 +12,8 @@ Listeler gerek duyulması halinde **günlük** ve **haftalık** olarak güncelle
 - Normshield
 - RiskIQ
 - UrlScan
+- Alienvault
+- Any Run
 
 ### İhbar ve iletişim
 

@@ -1,5 +1,4 @@
 import sys
-import whois
 
 lineList = set() 
 output = open(sys.argv[2], "w" , encoding="utf8")

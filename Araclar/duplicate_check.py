@@ -7,6 +7,9 @@ for line in open(sys.argv[1], "r", encoding="utf8"):
         if line[0]== '#':
             pass
         else:
-            output.write((line[:-1]).encode('idna').decode('utf-8') + '\n')
+            try:
+                output.write((line[:-1]).encode('idna').decode('utf-8') + '\n')
+            except:
+                print('ERROR: {} '.format(line[:-1]))
         lineList.add(line)
 output.close()

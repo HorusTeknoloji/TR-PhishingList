@@ -2,7 +2,7 @@
 
 Saldırı, kötüye kullanma, komuta kontrol merkezleri, Javascript tabanlı kripto para madenciliği, zararlı yazılım yayan web siteleri vb kaynakların tespit edilmesi ve erişime engellenmesi amaçlanmaktadır.
 
-Listeler gerek duyulması halinde **günlük** ve **haftalık** olarak güncelleştirilecektir.
+Listeler gerek duyulması halinde **günlük** ve(veya) **haftalık** olarak güncelleştirilecektir.
 
 ## Kullanılan tespit yöntemleri
 
@@ -15,9 +15,12 @@ Listeler gerek duyulması halinde **günlük** ve **haftalık** olarak güncelle
 - Alienvault
 - Any Run
 
-### İhbar ve iletişim
+### İletişim
 
-İletişim: destek@horus.com.tr
+Soru, görüş ve önerileriniz için: destek@horus.com.tr
+
+### İhlal
 
 Listeden çıkartma işlemleriniz için lütfen aşağıdaki mail adresini kullanınız.
+
 Mail: abuse@horus.com.tr

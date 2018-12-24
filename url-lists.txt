@@ -1,3 +1,12 @@
+# Phishing Domain List
+# License: MIT
+# Contact: abuse [at] horus.com.tr
+# (c) 2018 horus.com.tr
+# URL: https://github.com/HorusTeknoloji/TR-PhishingList
+# This list consists of high level sensitivity domains
+# 
+# 
+
 -akbank.com
 -xn--yapkred-mza21d-com.usrfiles.com
 0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info

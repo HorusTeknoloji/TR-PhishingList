@@ -1,0 +1,69 @@
+# Daily Phishing Domain List
+# License: MIT
+# Contact: abuse [at] horus.com.tr
+# (c) 2018 horus.com.tr
+# URL: https://github.com/HorusTeknoloji/TR-PhishingList
+# This list consists of high level sensitivity domains
+# 
+#
+
+
+wwwyapikredi-2019cekilisleri.com
+wwwyapikredi-yilbasicekilis.com
+halkbankonlineqiris.com
+halkbankonline-qiris.com
+vvww-halkbank.com
+vvww-dofus.com
+vwwhalkbank-mobilim.com
+wvvwhalkbank-internetsubesi.com
+wvwhalkbank-kobi.com
+hgs-epttavm.xyz
+wvwhalkbank-mobiluygulama.com
+wvwhalkbank-uygulama.com
+enpara-hediyesi.com
+enparalisube.com
+enparayilbasihediyem.com
+www-enparahediyeler.com
+xn--npra-coab5c.com
+kocekilis.com
+xn--npr-jlaba4c.com
+wwwdenizbank-hediyelercekilis.com
+wwwqnbfinansbank-hediyelerikacirma.com
+vakifbank2019.com
+vakifbankyeniyilda.com
+444yeniyilhosgeldin.org
+hediyeokyanusu.net
+yeniyilyenifirsatdenizim.com
+444yeniyilhosgeldin.net
+yeniyilbasisepeti.com
+yeniyilyenifirsatgaranti.com
+hediyekimin.com
+444yeniyilozel.com
+hediyetatilbalayi.com
+444yeniyilozel.org
+yoldakihediyem.com
+444yeniyilhosgeldin.info
+yeniyilyenifirsathalkim.com
+444yeniyilozel.biz
+hediyekutunuz.com
+444yeniyilozel.info
+yeniyilyenifirsatvakifim.com
+yeniyilyenifirsatbkm.com
+444yeniyilhosgeldin.com
+wwwfinansbank-hediyelerburada.com
+indirimlialtinkolye.com
+indirimlikolye.com
+indirimlipirlantatektas.com
+indirimposeti.com
+turk-indirim.com
+indirimlikapat.org
+indirimposeti.net
+alisverisindirim.com
+indirimçekiburada.com
+7-24indirim.xyz
+7-24indirim.com
+birtutamindirim.com
+yilsonu-ozel-firsatkampanyasi-online.xyz
+yilsonukampanya-firsatlari-mobilsubeye-ozel.icu
+yilsonukampanya-firsatlari-mobilsubeye-ozel.club
+yilsonu-ozel-firsatkampanyasi-online.club

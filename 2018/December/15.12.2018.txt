@@ -1,0 +1,53 @@
+# Daily Phishing Domain List
+# License: MIT
+# Contact: abuse [at] horus.com.tr
+# (c) 2018 horus.com.tr
+# URL: https://github.com/HorusTeknoloji/TR-PhishingList
+# This list consists of high level sensitivity domains
+# 
+#
+
+
+444yeniyilheycani.info
+denizdenyeniyildahediyen.com
+444yeniyilheycani.com
+denizdenyeniyilhediyesi.com
+444yeniyilheycani.org
+denizdenyeniyildahediye.com
+k11kazandiriyor.com
+finans10gbinternetkazanin.com
+finansinternetkazan.com
+web-kazan.biz
+toptanalkazan.com
+wwv-enparahediye.com
+anketidoldurhediyenikap.com
+denizden2019hediyesi.com
+direktmobil-onlineislem-firsatkampanyasi.club
+yilbasifirsati.live
+direktmobil-onlineislem-firsatkampanyasi.store
+temafirsati.com
+direktmobil-onlineislem-firsatkampanyasi.fun
+ykb-yilbasifirsati.com
+direktmobil-onlineislem-firsatkampanyasi.icu
+vakiffirsatlari.com
+direktmobil-onlineislem-firsatkampanyasi.site
+enparafirsatlar.com
+firsatname.com
+kampanya-koc.com
+yilsonu-firsatkampanyasi-direktmobil.com
+yilsonuozel-kampanya-direktmobil.website
+qnbonlinegirismerkeziwebtrsubesitr.com
+subeziraatbankasi.com
+qnbonlinegirismerkeziwebtrsube.com
+kilifbankasi.com
+qnbonlinegirismerkeziwebtrsubesiweb.com
+tcziraatbankasionay.com
+qnbonlinegirismerkeziwebtrsubesi.com
+vwvw-merkezbankasi.com
+yilsonuozel-kampanya-direktmobil.com
+formdolduriscep.com
+iscepmobilgiris.com
+iscepmobilsuhe.com
+anketdolduriscep.com
+worldiadevakif.com
+formudolduriscep.com

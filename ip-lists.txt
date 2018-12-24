@@ -1,3 +1,12 @@
+# Malicious IP List
+# License: MIT
+# Contact: abuse [at] horus.com.tr
+# (c) 2018 horus.com.tr
+# URL: https://github.com/HorusTeknoloji/TR-PhishingList
+# This list consists of high level sensitivity ips
+# 
+# 
+
 1.0.165.242
 1.0.181.248
 1.0.190.180

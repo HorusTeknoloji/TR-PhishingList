@@ -1,3 +1,5 @@
+![horus-shield](docs/img/security.svg)
+
 # Türkiye'ye Yönelik Zararlı Bağlantı Erişim Engelleme Listesi
 
 Saldırı, kötüye kullanma, komuta kontrol merkezleri, Javascript tabanlı kripto para madenciliği, zararlı yazılım yayan web siteleri vb kaynakların tespit edilmesi ve erişime engellenmesi amaçlanmaktadır.

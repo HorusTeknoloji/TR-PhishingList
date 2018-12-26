@@ -12,24 +12,6 @@
   $('.counter').counterUp({
     time: 500
   });  
-  
-  /* 
-  MixitUp
-  ========================================================================== */
-  $('#portfolio').mixItUp();
-
-  /* 
-   Screens Crouserl
-   ========================================================================== */
-    $('#carousel-screen').carousel({
-      num: 5,
-      maxWidth: 450,
-      maxHeight: 300,
-      distance: 50,
-      scale: 0.6,
-      animationTime: 1000,
-      showTime: 4000
-    });   
 
   /* 
    Clients Sponsor 
@@ -47,60 +29,7 @@
       itemsTablet: [767,2],
       itemsTabletSmall: [480,2],
       itemsMobile : [479,1],
-    });
-
-  /* Testimonials Carousel 
-  ========================================================*/
-  var owl = $("#testimonials");
-    owl.owlCarousel({
-      navigation: false,
-      pagination: true,
-      slideSpeed: 1000,
-      stopOnHover: true,
-      autoPlay: true,
-      items: 1,
-      itemsDesktop : [1199,1],
-      itemsDesktopSmall : [980,1],
-      itemsTablet: [768,1],
-      itemsTablet: [767,1],
-      itemsTabletSmall: [480,1],
-      itemsMobile : [479,1],
-    });   
-
-  /* 
-   Touch Owl Carousel
-   ========================================================================== */
-    var owl = $(".touch-slider");
-    owl.owlCarousel({
-      navigation: false,
-      pagination: true,
-      slideSpeed: 1000,
-      stopOnHover: true,
-      autoPlay: true,
-      items: 4,
-      itemsDesktopSmall: [1024, 4],
-      itemsTablet: [600, 2],
-      itemsMobile: [479, 1]
-    });
-
-    $('.touch-slider').find('.owl-prev').html('<i class="lni-arrow-left"></i>');
-    $('.touch-slider').find('.owl-next').html('<i class="lni-arrow-right"></i>');
-
-    /* Screens Shot Slider
-    =============================*/
-     var owl = $(".screens-slider");
-      owl.owlCarousel({
-        navigation: false,
-        pagination: true,
-        slideSpeed: 1000,
-        stopOnHover: true,
-        autoPlay: true,
-        addClassActive: true,
-        items: 3,
-        itemsDesktopSmall: [1024, 3],
-        itemsTablet: [600, 1],
-        itemsMobile: [479, 1]
-      });
+    });  
 
   /* 
    Sticky Nav
@@ -114,17 +43,6 @@
     });
 
   /* 
- VIDEO POP-UP
- ========================================================================== */
-  $('.video-popup').magnificPopup({
-      disableOn: 700,
-      type: 'iframe',
-      mainClass: 'mfp-fade',
-      removalDelay: 160,
-      preloader: false,
-      fixedContentPos: false,
-  });
-
   /* 
    Back Top Link
    ========================================================================== */

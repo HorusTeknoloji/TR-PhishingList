@@ -17,6 +17,27 @@ Listeler gerek duyulması halinde **günlük** ve(veya) **haftalık** olarak gü
 - Alienvault
 - Any Run
 
+# Linux
+
+```bash
+sort url-lists.txt | uniq | sed 's/\./\\\\./g' | while read host; 
+do 
+    echo "0.0.0.0 $host" >> /etc/hosts
+done;
+```
+
+# Windows
+
+YAKINDA
+
+# Pi-hole
+
+Admin alanına giriş yaparak `Settings` altında yer alan `Blocklist` sekmesine gelerek listemizi ekleyin ve veritabanınızı güncelleyin
+
+```
+https://raw.githubusercontent.com/HorusTeknoloji/TR-PhishingList/master/url-lists.txt
+```
+
 ### İletişim
 
 Soru, görüş ve önerileriniz için: destek@horus.com.tr

@@ -16,6 +16,9 @@ Listeler gerek duyulması halinde **günlük** ve(veya) **haftalık** olarak gü
 - UrlScan
 - Alienvault
 - Any Run
+- Certificate Transparency
+- DNS Twist
+- Phishing NG
 
 # Linux
 

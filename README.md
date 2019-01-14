@@ -20,7 +20,10 @@ Listeler gerek duyulması halinde **günlük** ve(veya) **haftalık** olarak gü
 - DNS Twist
 - Phishing NG
 
-# Linux
+
+# DİKKAT, Kullandığınız bu liste geliştirilme aşamasındadır. Yer yer hatalar olabileceğini lütfen unutmayınız.
+
+## Linux
 
 ```bash
 sort url-lists.txt | uniq | sed 's/\./\\\\./g' | while read host; 
@@ -29,11 +32,11 @@ do
 done;
 ```
 
-# Windows
+## Windows
 
 YAKINDA
 
-# Pi-hole
+## Pi-hole
 
 Admin alanına giriş yaparak `Settings` altında yer alan `Blocklist` sekmesine gelerek listemizi ekleyin ve veritabanınızı güncelleyin
 

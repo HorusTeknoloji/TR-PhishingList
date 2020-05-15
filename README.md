@@ -32,10 +32,6 @@ do
 done;
 ```
 
-## Windows
-
-YAKINDA
-
 ## Pi-hole
 
 Admin alanına giriş yaparak `Settings` altında yer alan `Blocklist` sekmesine gelerek listemizi ekleyin ve veritabanınızı güncelleyin
@@ -43,13 +39,3 @@ Admin alanına giriş yaparak `Settings` altında yer alan `Blocklist` sekmesine
 ```
 https://raw.githubusercontent.com/HorusTeknoloji/TR-PhishingList/master/url-lists.txt
 ```
-
-### İletişim
-
-Soru, görüş ve önerileriniz için: destek@horus.com.tr
-
-### İhlal
-
-Listeden çıkartma işlemleriniz için lütfen aşağıdaki mail adresini kullanınız.
-
-Mail: abuse@horus.com.tr

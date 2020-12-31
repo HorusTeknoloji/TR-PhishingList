@@ -19,6 +19,7 @@ Listeler gerek duyulması halinde **günlük** ve(veya) **haftalık** olarak gü
 - Certificate Transparency
 - DNS Twist
 - Phishing NG
+- Brandefense
 
 
 # DİKKAT, Kullandığınız bu liste geliştirilme aşamasındadır. Yer yer hatalar olabileceğini lütfen unutmayınız.

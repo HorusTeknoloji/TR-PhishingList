@@ -4,8 +4,6 @@
 
 Saldırı, kötüye kullanma, komuta kontrol merkezleri, Javascript tabanlı kripto para madenciliği, zararlı yazılım yayan web siteleri vb kaynakların tespit edilmesi ve erişime engellenmesi amaçlanmaktadır.
 
-Listeler gerek duyulması halinde **günlük** ve(veya) **haftalık** olarak güncelleştirilecektir.
-
 ## Kullanılan tespit yöntemleri
 
 - Kaspersky Abuse

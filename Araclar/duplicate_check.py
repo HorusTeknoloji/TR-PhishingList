@@ -1,4 +1,5 @@
 import sys
+import idna.codec
 
 lineList = set() 
 files = open(sys.argv[1], "r", encoding="utf8").readlines()

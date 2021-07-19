@@ -1,10 +1,17 @@
 ![horus-shield](docs/img/security.svg)
 
-# Türkiye'ye Yönelik Zararlı Bağlantı Erişim Engelleme Listesi
+# TR-PhishingList
 
-Saldırı, kötüye kullanma, komuta kontrol merkezleri, Javascript tabanlı kripto para madenciliği, zararlı yazılım yayan web siteleri vb kaynakların tespit edilmesi ve erişime engellenmesi amaçlanmaktadır.
+It is aimed to detect and prevent access to resources such as attacks, abuse, command and control centers, Javascript-based cryptocurrency mining, websites spreading malware and etc.
 
-## Kullanılan tespit yöntemleri
+
+# Attention
+
+List type: **Aggressive**
+
+False-Positive Ratio is high. Our list is under development, Please report any f/p
+
+## The detection methods
 
 - Kaspersky Abuse
 - DNS Zone
@@ -19,10 +26,9 @@ Saldırı, kötüye kullanma, komuta kontrol merkezleri, Javascript tabanlı kri
 - Phishing NG
 - Brandefense
 
+# How to use?
 
-# DİKKAT, Kullandığınız bu liste geliştirilme aşamasındadır. Yer yer hatalar olabileceğini lütfen unutmayınız.
-
-## Linux
+### Linux
 
 ```bash
 sort url-lists.txt | uniq | sed 's/\./\\\\./g' | while read host; 
@@ -31,9 +37,7 @@ do
 done;
 ```
 
-## Pi-hole
-
-Admin alanına giriş yaparak `Settings` altında yer alan `Blocklist` sekmesine gelerek listemizi ekleyin ve veritabanınızı güncelleyin
+### Pi-hole and others
 
 ```
 https://raw.githubusercontent.com/HorusTeknoloji/TR-PhishingList/master/url-lists.txt
